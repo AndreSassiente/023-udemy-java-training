@@ -5,6 +5,7 @@
 
     DIFERENCA = (A*B) - (C*D)
  */
+
 package udemy;
 
 import java.util.Locale;
